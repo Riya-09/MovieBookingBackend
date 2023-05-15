@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  datasource:
+    url: jdbc:postgresql://${DB_HOST}:${DB_PORT}/${DB_NAME}
+    username: ${POSTGRES_USERNAME}
+    password: ${POSTGRES_PASSWORD}
+logging:
+  level:
+    root: INFO
+application:
+  uiHost: ${UI_HOST}
+  movieServiceHost: ${MOVIE_SERVICE_HOST}

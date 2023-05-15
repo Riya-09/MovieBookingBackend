@@ -1,0 +1,700 @@
+[
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6644200/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt6644200/images/rm2582992384",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 90,
+    "title": "A Quiet Place",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "II",
+    "id": "/title/tt6857112/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt6857112/images/rm3483724800",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "width": 1895
+    },
+    "runningTimeInMinutes": 116,
+    "title": "Us",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt7784604/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt7784604/images/rm519258624",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+      "width": 2025
+    },
+    "runningTimeInMinutes": 127,
+    "title": "Hereditary",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "I",
+    "id": "/title/tt5052448/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt5052448/images/rm1537293568",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+      "width": 1383
+    },
+    "runningTimeInMinutes": 104,
+    "title": "Get Out",
+    "titleType": "movie",
+    "year": 2017
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "I",
+    "id": "/title/tt1396484/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt1396484/images/rm2985515264",
+      "url": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg",
+      "width": 2000
+    },
+    "runningTimeInMinutes": 135,
+    "title": "It",
+    "titleType": "movie",
+    "year": 2017
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2076822/",
+    "image": {
+      "height": 1402,
+      "id": "/title/tt2076822/images/rm1773478912",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODQ0NDc0N15BMl5BanBnXkFtZTgwNTE4NzQ3MzI@._V1_.jpg",
+      "width": 2048
+    },
+    "title": "Chaos Walking",
+    "titleType": "movie",
+    "year": 2021
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "IX",
+    "id": "/title/tt4972582/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt4972582/images/rm1913600000",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+      "width": 1383
+    },
+    "runningTimeInMinutes": 117,
+    "title": "Split",
+    "titleType": "movie",
+    "year": 2016
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt4574334/",
+    "image": {
+      "height": 915,
+      "id": "/title/tt4574334/images/rm4141389825",
+      "url": "https://m.media-amazon.com/images/M/MV5BZGExYjQzNTQtNGNhMi00YmY1LTlhY2MtMTRjODg3MjU4YTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "width": 618
+    },
+    "runningTimeInMinutes": 51,
+    "nextEpisode": "/title/tt4593118/",
+    "numberOfEpisodes": 33,
+    "seriesStartYear": 2016,
+    "title": "Stranger Things",
+    "titleType": "tvSeries",
+    "year": 2016
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6644200/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt6644200/images/rm2582992384",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 90,
+    "title": "A Quiet Place",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6823368/",
+    "image": {
+      "height": 1100,
+      "id": "/title/tt6823368/images/rm2746709504",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_.jpg",
+      "width": 770
+    },
+    "runningTimeInMinutes": 129,
+    "title": "Glass",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt5968394/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt5968394/images/rm1470922240",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgyNjU0NTAxOV5BMl5BanBnXkFtZTgwNTc4MDIzNjM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 109,
+    "title": "Captive State",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt1179933/",
+    "image": {
+      "height": 1231,
+      "id": "/title/tt1179933/images/rm847832832",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_.jpg",
+      "width": 831
+    },
+    "runningTimeInMinutes": 103,
+    "title": "10 Cloverfield Lane",
+    "titleType": "movie",
+    "year": 2016
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt0944947/",
+    "image": {
+      "height": 1500,
+      "id": "/title/tt0944947/images/rm4204167425",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+      "width": 1102
+    },
+    "runningTimeInMinutes": 57,
+    "nextEpisode": "/title/tt1480055/",
+    "numberOfEpisodes": 73,
+    "seriesEndYear": 2019,
+    "seriesStartYear": 2011,
+    "title": "Game of Thrones",
+    "titleType": "tvSeries",
+    "year": 2011
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt7349950/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt7349950/images/rm3248725249",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 169,
+    "title": "It Chapter Two",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2935510/",
+    "image": {
+      "height": 1000,
+      "id": "/title/tt2935510/images/rm871405057",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "width": 675
+    },
+    "runningTimeInMinutes": 123,
+    "title": "Ad Astra",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt0437086/",
+    "image": {
+      "height": 2047,
+      "id": "/title/tt0437086/images/rm924018944",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 122,
+    "title": "Alita: Battle Angel",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt4154664/",
+    "image": {
+      "height": 2500,
+      "id": "/title/tt4154664/images/rm123368960",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+      "width": 1688
+    },
+    "runningTimeInMinutes": 123,
+    "title": "Captain Marvel",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3016748/",
+    "image": {
+      "height": 2193,
+      "id": "/title/tt3016748/images/rm620666113",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzQxZTRmNWMtOGU4NC00YTI5LWJkYWYtMzBiMmIwMWEzZDIwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "width": 1480
+    },
+    "runningTimeInMinutes": 89,
+    "title": "Jacob's Ladder",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3513498/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt3513498/images/rm2039574784",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 107,
+    "title": "The Lego Movie 2: The Second Part",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "VI",
+    "id": "/title/tt4178092/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt4178092/images/rm121630976",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQzMjM2NjM1Nl5BMl5BanBnXkFtZTgwMDM1MjQyNTE@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 108,
+    "title": "The Gift",
+    "titleType": "movie",
+    "year": 2015
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt4154796/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt4154796/images/rm2775147008",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 181,
+    "title": "Avengers: Endgame",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2382320/",
+    "image": {
+      "height": 4375,
+      "id": "/title/tt2382320/images/rm3280582913",
+      "url": "https://m.media-amazon.com/images/M/MV5BNGEwMDU2ZDQtZmE5Zi00YjFiLWIwYWItOGMyMzY5MzljOWU3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+      "width": 3000
+    },
+    "runningTimeInMinutes": 163,
+    "title": "No Time to Die",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt1833116/",
+    "image": {
+      "height": 3075,
+      "id": "/title/tt1833116/images/rm2239654144",
+      "url": "https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_.jpg",
+      "width": 2100
+    },
+    "runningTimeInMinutes": 113,
+    "title": "The Informer",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt0448115/",
+    "image": {
+      "height": 4096,
+      "id": "/title/tt0448115/images/rm1393057792",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+      "width": 2764
+    },
+    "runningTimeInMinutes": 132,
+    "title": "Shazam!",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt1179933/",
+    "image": {
+      "height": 1231,
+      "id": "/title/tt1179933/images/rm847832832",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_.jpg",
+      "width": 831
+    },
+    "runningTimeInMinutes": 103,
+    "title": "10 Cloverfield Lane",
+    "titleType": "movie",
+    "year": 2016
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6644200/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt6644200/images/rm2582992384",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 90,
+    "title": "A Quiet Place",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt4160708/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt4160708/images/rm330172416",
+      "url": "https://m.media-amazon.com/images/M/MV5BZGI5ZTU2M2YtZWY4MC00ZDFhLTliYTItZTk1NjdlN2NkMzg2XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+      "width": 1280
+    },
+    "runningTimeInMinutes": 88,
+    "title": "Don't Breathe",
+    "titleType": "movie",
+    "year": 2016
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt0837563/",
+    "image": {
+      "height": 4004,
+      "id": "/title/tt0837563/images/rm3035465985",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjJiN2UwYWItNWJjNi00Zjg4LWE5NmItMmM4N2I3ZjY3OTY2XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_.jpg",
+      "width": 2565
+    },
+    "runningTimeInMinutes": 101,
+    "title": "Pet Sematary",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt7349950/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt7349950/images/rm3248725249",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 169,
+    "title": "It Chapter Two",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2283336/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt2283336/images/rm2038195968",
+      "url": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "width": 2024
+    },
+    "runningTimeInMinutes": 114,
+    "title": "Men in Black: International",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "II",
+    "id": "/title/tt6857112/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt6857112/images/rm3483724800",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "width": 1895
+    },
+    "runningTimeInMinutes": 116,
+    "title": "Us",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "I",
+    "id": "/title/tt1396484/",
+    "image": {
+      "height": 3000,
+      "id": "/title/tt1396484/images/rm2985515264",
+      "url": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg",
+      "width": 2000
+    },
+    "runningTimeInMinutes": 135,
+    "title": "It",
+    "titleType": "movie",
+    "year": 2017
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt1833116/",
+    "image": {
+      "height": 3075,
+      "id": "/title/tt1833116/images/rm2239654144",
+      "url": "https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_.jpg",
+      "width": 2100
+    },
+    "runningTimeInMinutes": 113,
+    "title": "The Informer",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "disambiguation": "I",
+    "id": "/title/tt8359848/",
+    "image": {
+      "height": 3657,
+      "id": "/title/tt8359848/images/rm3352722176",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjllYmQ2OGQtN2IxZC00ODJiLWI4NjQtYmNlZjYzNzUzYjkyXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+      "width": 2687
+    },
+    "runningTimeInMinutes": 97,
+    "title": "Climax",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2274648/",
+    "image": {
+      "height": 6000,
+      "id": "/title/tt2274648/images/rm1016422656",
+      "url": "https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+      "width": 4050
+    },
+    "runningTimeInMinutes": 120,
+    "title": "Hellboy",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6823368/",
+    "image": {
+      "height": 1100,
+      "id": "/title/tt6823368/images/rm2746709504",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_.jpg",
+      "width": 770
+    },
+    "runningTimeInMinutes": 129,
+    "title": "Glass",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3316624/",
+    "image": {
+      "height": 8748,
+      "id": "/title/tt3316624/images/rm4025404416",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjIyMjY4N15BMl5BanBnXkFtZTgwMzAxNTQ5MTE@._V1_.jpg",
+      "width": 5906
+    },
+    "title": "The Well",
+    "titleType": "movie",
+    "year": 2020
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt0944947/",
+    "image": {
+      "height": 1500,
+      "id": "/title/tt0944947/images/rm4204167425",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+      "width": 1102
+    },
+    "runningTimeInMinutes": 57,
+    "nextEpisode": "/title/tt1480055/",
+    "numberOfEpisodes": 73,
+    "seriesEndYear": 2019,
+    "seriesStartYear": 2011,
+    "title": "Game of Thrones",
+    "titleType": "tvSeries",
+    "year": 2011
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt7959026/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt7959026/images/rm3209851392",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 116,
+    "title": "The Mule",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt2527338/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt2527338/images/rm1361479681",
+      "url": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+      "width": 1383
+    },
+    "runningTimeInMinutes": 142,
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt4913966/",
+    "image": {
+      "height": 2560,
+      "id": "/title/tt4913966/images/rm1379950592",
+      "url": "https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_.jpg",
+      "width": 1728
+    },
+    "runningTimeInMinutes": 93,
+    "title": "The Curse of la Llorona",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt5052474/",
+    "image": {
+      "height": 2048,
+      "id": "/title/tt5052474/images/rm2986364160",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEzNjM2NTYxMjReQTJeQWpwZ15BbWU4MDU2NzAxNTUz._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 122,
+    "title": "Sicario: Day of the Soldado",
+    "titleType": "movie",
+    "year": 2018
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt6565702/",
+    "image": {
+      "height": 2047,
+      "id": "/title/tt6565702/images/rm3972687104",
+      "url": "https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg",
+      "width": 1382
+    },
+    "runningTimeInMinutes": 113,
+    "title": "X-Men: Dark Phoenix",
+    "titleType": "movie",
+    "year": 2019
+  },
+  {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt3741700/",
+    "image": {
+      "height": 4096,
+      "id": "/title/tt3741700/images/rm3629213184",
+      "url": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "width": 2764
+    },
+    "runningTimeInMinutes": 132,
+    "title": "Godzilla: King of the Monsters",
+    "titleType": "movie",
+    "year": 2019
+  }
+]

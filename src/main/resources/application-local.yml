@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bookingengine
+    username: bookingengine
+    password: postgres
+logging:
+  level:
+    root: INFO
+application:
+  uiHost: http://localhost:3000
+  movieServiceHost: http://ec2-65-2-79-75.ap-south-1.compute.amazonaws.com:4567/
